@@ -1,0 +1,8 @@
+/nvr_raw
+/JaViewer.swf
+/javiewer_scripts/
+*.pcap
+*.log
+*.bin
+*.env
+nvr_raw
